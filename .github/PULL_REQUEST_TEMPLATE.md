@@ -6,7 +6,6 @@ Please include a summary of the change and which issue is fixed. Please also inc
 
 # Checklist
 
-- [ ] I have squashed my commits into a single one with a message that aligns with the contributing guidelines
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
